@@ -2,6 +2,12 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../project/posigraf"
+		},
+		{
+			"path": "C:/Users/Prota/OneDrive/Documentos/TRABALHOS 3 PERIODO/front/aps 1/cod"
 		}
 	],
 	"settings": {}
